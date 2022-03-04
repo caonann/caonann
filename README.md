@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on vpc network
-- 🌱 I’m currently learning golang
-- 💬 Ask me about vpc usage on tencent eage compute
-- 📫 How to reach me: [@caonan](https://caonann.com)
-- ⚡ Fun fact: hand-painting
+- 🔭  I’m currently working on vpc network
+- 💬  Ask me about vpc usage on tencent edge computing
+- 📫  blog: [@caonan](https://caonann.com)
+- 📧  email: caonann@qq.com
+- 📸  ins: [@ins](https://www.instagram.com/caonannnn/)
+- ⚡  Fun fact: hand-painting
